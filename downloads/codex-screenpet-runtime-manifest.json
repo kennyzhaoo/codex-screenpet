@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "app": "codex-screenpet",
+  "version": "0.1.1",
+  "runtimeVersion": "0.1.1+4485735",
+  "package": "codex-screenpet-runtime.zip",
+  "sha256": "415eb67c925387327fde69aaf5260349ff1b4ccfebab6f64f28fe57f40cbcade",
+  "size": 281747,
+  "createdAt": "2026-06-07T03:17:41.556Z",
+  "notes": "Runtime-only update for ScreenPet dashboard, setup page, server, and scripts."
+}
