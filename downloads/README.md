@@ -4,7 +4,7 @@
 
 Download this file:
 
-[Blinky-Codex-ScreenPet-v0.1.4.dmg](https://raw.githubusercontent.com/kennyzhaoo/codex-screenpet/main/downloads/Blinky-Codex-ScreenPet-v0.1.4.dmg)
+[Blinky-Codex-ScreenPet-v0.1.5.dmg](https://raw.githubusercontent.com/kennyzhaoo/codex-screenpet/main/downloads/Blinky-Codex-ScreenPet-v0.1.5.dmg)
 
 Open the DMG, read `READ ME FIRST.pdf` if you want the illustrated guide, drag `Blinky Codex ScreenPet.app` into **Applications**, then open it from Applications on the Mac that runs Codex Desktop.
 

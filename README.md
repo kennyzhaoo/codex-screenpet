@@ -12,7 +12,7 @@ Blinky is a free macOS beta for Codex power users. Run it on the Mac where Codex
 
 **Most users should download this file:**
 
-[Download Blinky Codex ScreenPet for macOS](https://raw.githubusercontent.com/kennyzhaoo/codex-screenpet/main/downloads/Blinky-Codex-ScreenPet-v0.1.4.dmg)
+[Download Blinky Codex ScreenPet for macOS](https://raw.githubusercontent.com/kennyzhaoo/codex-screenpet/main/downloads/Blinky-Codex-ScreenPet-v0.1.5.dmg)
 
 After downloading, open the DMG, read `READ ME FIRST.pdf` if you want the illustrated guide, drag `Blinky Codex ScreenPet.app` into **Applications**, then open it from Applications on the Mac that runs Codex Desktop.
 
@@ -78,12 +78,12 @@ Runtime updates only replace the web dashboard, setup page, local server, script
 
 ## Release Metadata
 
-- Version: `0.1.4`
-- Release tag: `v0.1.4-beta.1`
-- Runtime version: `0.1.4+1389f7d`
-- Git revision: `1389f7d`
+- Version: `0.1.5`
+- Release tag: `v0.1.5-beta.1`
+- Runtime version: `0.1.5+8176bb4`
+- Git revision: `8176bb4`
 - Generated from dirty worktree: `false`
-- macOS download: `Blinky-Codex-ScreenPet-v0.1.4.dmg`
+- macOS download: `Blinky-Codex-ScreenPet-v0.1.5.dmg`
 
 ## Feedback
 
