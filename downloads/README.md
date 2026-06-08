@@ -4,9 +4,9 @@
 
 Download this file:
 
-[Blinky-Codex-ScreenPet-v0.1.3.dmg](https://raw.githubusercontent.com/kennyzhaoo/codex-screenpet/main/downloads/Blinky-Codex-ScreenPet-v0.1.3.dmg)
+[Blinky-Codex-ScreenPet-v0.1.4.dmg](https://raw.githubusercontent.com/kennyzhaoo/codex-screenpet/main/downloads/Blinky-Codex-ScreenPet-v0.1.4.dmg)
 
-Open the DMG, drag `Blinky Codex ScreenPet.app` into **Applications**, then open it from Applications on the Mac that runs Codex Desktop.
+Open the DMG, read `READ ME FIRST.pdf` if you want the illustrated guide, drag `Blinky Codex ScreenPet.app` into **Applications**, then open it from Applications on the Mac that runs Codex Desktop.
 
 This free beta is not yet signed with an Apple Developer ID or notarized by Apple. macOS may ask you to allow it in **System Settings -> Privacy & Security**. That is expected for this early GitHub beta.
 

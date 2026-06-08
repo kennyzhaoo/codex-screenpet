@@ -1,15 +1,16 @@
-# v0.1.3-beta.1 Beta Notes
+# v0.1.4-beta.1 Beta Notes
 
 Codex ScreenPet turns a spare phone, tablet, or browser screen into a local dashboard for Codex Desktop tasks.
 
 ## Included Artifacts
 
-- `downloads/Blinky-Codex-ScreenPet-v0.1.3.dmg`
+- `downloads/Blinky-Codex-ScreenPet-v0.1.4.dmg`
 - `downloads/codex-screenpet-runtime.zip`
 - `downloads/codex-screenpet-runtime-manifest.json`
 
 ## Highlights
 
+- DMG includes `READ ME FIRST.pdf` with an illustrated installation guide.
 - Recent Codex Desktop task list with readable message previews.
 - Task detail view with independently scrollable conversation context.
 - Mobile instruction composer with delivery confirmation against the target conversation log.
@@ -31,9 +32,9 @@ Codex ScreenPet turns a spare phone, tablet, or browser screen into a local dash
 
 ## Verification Snapshot
 
-- Version: `0.1.3`
-- Runtime version: `0.1.3+211f26b`
-- Git revision: `211f26b`
+- Version: `0.1.4`
+- Runtime version: `0.1.4+1389f7d`
+- Git revision: `1389f7d`
 - Dirty worktree at generation time: `false`
-- App DMG size: `2284094` bytes
+- App DMG size: `7479723` bytes
 - Runtime zip size: `281748` bytes

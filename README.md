@@ -12,9 +12,9 @@ Blinky is a free macOS beta for Codex power users. Run it on the Mac where Codex
 
 **Most users should download this file:**
 
-[Download Blinky Codex ScreenPet for macOS](https://raw.githubusercontent.com/kennyzhaoo/codex-screenpet/main/downloads/Blinky-Codex-ScreenPet-v0.1.3.dmg)
+[Download Blinky Codex ScreenPet for macOS](https://raw.githubusercontent.com/kennyzhaoo/codex-screenpet/main/downloads/Blinky-Codex-ScreenPet-v0.1.4.dmg)
 
-After downloading, open the DMG, drag `Blinky Codex ScreenPet.app` into **Applications**, then open it from Applications on the Mac that runs Codex Desktop.
+After downloading, open the DMG, read `READ ME FIRST.pdf` if you want the illustrated guide, drag `Blinky Codex ScreenPet.app` into **Applications**, then open it from Applications on the Mac that runs Codex Desktop.
 
 This link points to GitHub's raw download URL so it should start downloading directly. If GitHub opens a file page instead, click **View raw**.
 
@@ -47,11 +47,12 @@ A Developer ID signed and notarized build is planned if there is enough real dem
 ## Quick Start
 
 1. Download the macOS beta DMG from the link above.
-2. Open the DMG and drag `Blinky Codex ScreenPet.app` into **Applications**.
-3. Open `Blinky Codex ScreenPet.app` from Applications on the Mac that runs Codex Desktop.
-4. Open Setup from the menu bar app. If the local server is stopped, Blinky starts it first and opens Setup after it is ready.
-5. Use the shown phone URL or QR code on your phone or tablet.
-6. Enter the Blinky password shown on the Mac setup page.
+2. Open the DMG and read `READ ME FIRST.pdf` if you want the illustrated install guide.
+3. Drag `Blinky Codex ScreenPet.app` into **Applications**.
+4. Open `Blinky Codex ScreenPet.app` from Applications on the Mac that runs Codex Desktop.
+5. Open Setup from the menu bar app. If the local server is stopped, Blinky starts it first and opens Setup after it is ready.
+6. Use the shown phone URL or QR code on your phone or tablet.
+7. Enter the Blinky password shown on the Mac setup page.
 
 The menu bar app starts the local server with Node.js from common macOS installs, including Homebrew, nvm, Volta, mise, asdf, or the Codex Desktop bundled runtime.
 
@@ -77,12 +78,12 @@ Runtime updates only replace the web dashboard, setup page, local server, script
 
 ## Release Metadata
 
-- Version: `0.1.3`
-- Release tag: `v0.1.3-beta.1`
-- Runtime version: `0.1.3+211f26b`
-- Git revision: `211f26b`
+- Version: `0.1.4`
+- Release tag: `v0.1.4-beta.1`
+- Runtime version: `0.1.4+1389f7d`
+- Git revision: `1389f7d`
 - Generated from dirty worktree: `false`
-- macOS download: `Blinky-Codex-ScreenPet-v0.1.3.dmg`
+- macOS download: `Blinky-Codex-ScreenPet-v0.1.4.dmg`
 
 ## Feedback
 
